@@ -236,5 +236,6 @@ The Policy Iteration algorithm was successfully implemented. The algorithm repea
 ## Inference
 
 The Policy Iteration algorithm successfully found the optimal policy and optimal state-value function for the FrozenLake environment. The policy became stable after a few iterations, indicating that no further improvements were possible. This shows that Policy Iteration efficiently solves a Markov Decision Process by repeatedly performing policy evaluation and policy improvement.
+
 ---
 
